@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">InstaTram</string>
+
+    <!-- Action bar titles !-->
+    <string name="title_activity_home">InstaTram</string>
+    <string name="title_activity_photos">Fotos</string>
+
+    <!-- Action bar menu !-->
+    <string name="title_home">Inicio</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_settings">Configuración</string>
+    <string name="title_language">Lengua</string>
+    <string name="title_theme">Tema</string>
+
+    <!-- Settings !-->
+    <string name="choice_language">Elige lengua</string>
+    <string name="choice_theme">Elige tema</string>
+
+    <string name="created_success">Creada!</string>
+    <string name="created_failed">Fallo al crear</string>
+    <string name="delete_success">Eliminada!</string>
+    <string name="delete_failed">Fallo al eliminar</string>
+
+    <string name="button_camera">Cámara</string>
+    <string name="button_delete">Eliminar</string>
+
+    <string name="edit_title_hint">Título</string>
+    <string name="title_empty_message">El título no puede estar vacío!</string>
+    <string name="title_long_message">Título demasiado largo!</string>
+    <string name="button_save">Ahorrar</string>
+    <string name="button_cancel">Cancelar</string>
+
+</resources>
